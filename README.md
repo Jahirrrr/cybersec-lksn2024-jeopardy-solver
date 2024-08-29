@@ -5,4 +5,6 @@ Solved : 5/15 Challenges
 by : Kurokaze
 
 # Note
-Sorry kalo cupu :)
+Dump Soal ini saya dapatkan dari teman saya, Daniel :)
+
+Sorry kalo cupu :>
